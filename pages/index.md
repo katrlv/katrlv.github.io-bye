@@ -1,12 +1,10 @@
 ---
 layout: home
-title: Katryn Relleve
+title: Hi there!
 permalink: /
 section: home
 intro_paragraph: |-
-  I am a User Experience Design Student at Wilfrid Laurier University. 
-
-
+  I'm Katryn, a User Experience Design student at Wilfrid Laurier University. 
 
   Take a look at my work below ↓
 ---
