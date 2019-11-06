@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=NTR&display=swap');
+
 
 // site colours
 $text-color: rgb(40,40,40);
@@ -11,7 +13,7 @@ $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
 
 // typographic defaults
-$base-font: Josefin Sans;
+$base-font: Josefin Sans, NTR;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
 $base-font-weight: 300;
