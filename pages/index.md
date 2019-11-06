@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Katryn Relleve
+title: Hi there!
 permalink: /
 section: home
 intro_paragraph: |-
